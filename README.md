@@ -16,7 +16,7 @@ Hi! My name is Alliyah. I'm an AI/ML Software Engineer and a recent Harvard New 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-### ❤️ Take a Look at My Repos!
+### ❤️ Take a Look at My Favorite Projects!
 <table>
   <tr>
     <td>
